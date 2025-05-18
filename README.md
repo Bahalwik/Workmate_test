@@ -17,3 +17,7 @@ python3 main.py data1.csv data2.csv data3.csv --report payout
 - Входные файлы всегда в формате csv.
 
 - Код покрыт тестами
+
+
+Результат:
+![image](https://github.com/user-attachments/assets/23935217-dd2b-43b3-97f6-b4198fcd1017)
